@@ -1,5 +1,4 @@
 # 🚦 Project-Simulation
-
 A dynamic, visually-rich traffic intersection simulator built with **Python** and **Pygame**. This project models a four-way intersection with adaptive signal control, real-time vehicle flow, and even hardware integration for IoT/embedded systems. It’s the heart of your smart city traffic project!
 
 ---
